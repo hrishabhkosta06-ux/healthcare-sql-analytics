@@ -1,4 +1,4 @@
-# Hospitals — Healthcare Operations & Revenue Analytics using SQL
+# Healthcare Operations & Revenue Analytics using PostgreSQL
 
 **PostgreSQL · SQL · Git/GitHub** — an end-to-end SQL analytics project on a deterministic, fully synthetic hospital dataset.
 
