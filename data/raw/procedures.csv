@@ -1,0 +1,58 @@
+procedure_id,procedure_name,department_id,procedure_category,standard_price
+PRC001,Emergency Wound Suturing,DEP01,Minor Procedure,2300.00
+PRC002,ECG and Cardiac Monitoring,DEP01,Diagnostic,900.00
+PRC003,Fracture Splinting and Reduction,DEP01,Minor Procedure,3600.00
+PRC004,Comprehensive Health Assessment,DEP02,Diagnostic,3600.00
+PRC005,IV Fluid and Infusion Therapy,DEP02,Therapy Session,2500.00
+PRC006,Nebulisation Therapy,DEP02,Therapy Session,600.00
+PRC007,Echocardiography,DEP03,Diagnostic,2900.00
+PRC008,Treadmill Stress Test,DEP03,Diagnostic,2900.00
+PRC009,Coronary Angiography,DEP03,Interventional,34100.00
+PRC010,Coronary Angioplasty (PTCA),DEP03,Interventional,197000.00
+PRC011,Pacemaker Implantation,DEP03,Interventional,291900.00
+PRC012,Coronary Artery Bypass Grafting,DEP04,Major Surgery,517600.00
+PRC013,Heart Valve Replacement,DEP04,Major Surgery,442900.00
+PRC014,Vascular Bypass Surgery,DEP04,Major Surgery,284900.00
+PRC015,Varicose Vein Ablation,DEP04,Interventional,49700.00
+PRC016,Total Knee Replacement,DEP05,Major Surgery,341000.00
+PRC017,Total Hip Replacement,DEP05,Major Surgery,328700.00
+PRC018,Arthroscopic Knee Surgery,DEP05,Major Surgery,143000.00
+PRC019,Fracture Fixation (ORIF),DEP05,Major Surgery,139100.00
+PRC020,Joint Injection,DEP05,Minor Procedure,5200.00
+PRC021,Physiotherapy Session,DEP05,Therapy Session,1800.00
+PRC022,Electroencephalogram (EEG),DEP06,Diagnostic,2900.00
+PRC023,Nerve Conduction Study,DEP06,Diagnostic,4200.00
+PRC024,Lumbar Puncture,DEP06,Minor Procedure,4200.00
+PRC025,Craniotomy,DEP07,Major Surgery,469700.00
+PRC026,Spinal Decompression Surgery,DEP07,Major Surgery,321700.00
+PRC027,Lumbar Discectomy,DEP07,Major Surgery,168500.00
+PRC028,Chemotherapy Cycle,DEP08,Therapy Session,60000.00
+PRC029,Radiotherapy Session,DEP08,Therapy Session,34800.00
+PRC030,Tumour Biopsy,DEP08,Minor Procedure,17400.00
+PRC031,PET-CT Scan,DEP08,Diagnostic,18000.00
+PRC032,Upper GI Endoscopy,DEP09,Diagnostic,7700.00
+PRC033,Colonoscopy,DEP09,Diagnostic,13600.00
+PRC034,ERCP,DEP09,Interventional,58500.00
+PRC035,Laparoscopic Cholecystectomy,DEP10,Major Surgery,147900.00
+PRC036,Hernia Repair,DEP10,Major Surgery,124300.00
+PRC037,Appendicectomy,DEP10,Major Surgery,97200.00
+PRC038,Excision of Lump,DEP10,Minor Procedure,12900.00
+PRC039,Wound Debridement,DEP10,Minor Procedure,11600.00
+PRC040,Normal Delivery,DEP11,Major Surgery,71500.00
+PRC041,Caesarean Section,DEP11,Major Surgery,90500.00
+PRC042,Hysterectomy,DEP11,Major Surgery,195700.00
+PRC043,Obstetric Ultrasound,DEP11,Diagnostic,3000.00
+PRC044,Hysteroscopy,DEP11,Minor Procedure,28100.00
+PRC045,Neonatal Phototherapy,DEP12,Therapy Session,5200.00
+PRC046,Paediatric Nebulisation,DEP12,Therapy Session,500.00
+PRC047,Paediatric IV Therapy,DEP12,Therapy Session,1600.00
+PRC048,Childhood Immunisation,DEP12,Minor Procedure,1500.00
+PRC049,Haemodialysis Session,DEP13,Therapy Session,5400.00
+PRC050,Renal Biopsy,DEP13,Minor Procedure,26400.00
+PRC051,AV Fistula Creation,DEP13,Interventional,54900.00
+PRC052,Kidney Function Panel,DEP13,Diagnostic,2600.00
+PRC053,MRI Brain,DEP14,Diagnostic,10000.00
+PRC054,CT Abdomen,DEP14,Diagnostic,7600.00
+PRC055,X-Ray Chest,DEP14,Diagnostic,700.00
+PRC056,Ultrasound Abdomen,DEP14,Diagnostic,3400.00
+PRC057,MRI Spine,DEP14,Diagnostic,14100.00

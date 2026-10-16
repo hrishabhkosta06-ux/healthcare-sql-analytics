@@ -1,0 +1,15 @@
+department_id,department_name,department_category
+DEP01,Emergency Medicine,Emergency
+DEP02,General Medicine,Medical
+DEP03,Cardiology,Medical
+DEP04,Cardiothoracic Surgery,Surgical
+DEP05,Orthopaedics,Surgical
+DEP06,Neurology,Medical
+DEP07,Neurosurgery,Surgical
+DEP08,Oncology,Medical
+DEP09,Gastroenterology,Medical
+DEP10,General Surgery,Surgical
+DEP11,Obstetrics & Gynaecology,Surgical
+DEP12,Paediatrics,Medical
+DEP13,Nephrology,Medical
+DEP14,Radiology & Imaging,Diagnostic

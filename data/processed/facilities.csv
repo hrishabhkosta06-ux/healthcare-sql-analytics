@@ -1,0 +1,6 @@
+facility_id,facility_name,city,city_tier,operating_bed_count,opened_date
+FAC001,Simulated Hospital A (Mumbai),Mumbai,Metro,18,2009-05-17
+FAC002,Simulated Hospital B (Bengaluru),Bengaluru,Metro,15,2019-10-17
+FAC003,Simulated Hospital C (Delhi),Delhi,Metro,15,2007-07-22
+FAC004,Simulated Hospital D (Jaipur),Jaipur,Non-metro,10,2007-11-25
+FAC005,Simulated Hospital E (Lucknow),Lucknow,Non-metro,11,2020-01-12
