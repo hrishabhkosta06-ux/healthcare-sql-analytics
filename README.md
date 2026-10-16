@@ -1,4 +1,4 @@
-# Apollo Hospitals — Healthcare Operations & Revenue Analytics using SQL
+# Hospitals — Healthcare Operations & Revenue Analytics using SQL
 
 **PostgreSQL · SQL · Git/GitHub** — an end-to-end SQL analytics project on a deterministic, fully synthetic hospital dataset.
 
@@ -163,7 +163,7 @@ Real query outputs from PostgreSQL (more in [`screenshots/`](screenshots)).
 
 ## Tools
 
-PostgreSQL (version of original execution not independently confirmed; user-reported environment: 18.6) · SQL · Git/GitHub. No Python, spreadsheet or BI tools are part of this project.
+PostgreSQL (version of original execution not independently confirmed; user-reported environment: 18.6) · SQL · Git/GitHub.
 
 ## How to run
 
